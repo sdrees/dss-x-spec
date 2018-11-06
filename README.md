@@ -27,7 +27,7 @@
 <div>
 <h3>Further Description of this Repository</h3>
 
-<p><img src="https://travis-ci.org/sdrees/dss-x-spec.svg?branch=master" alt="build status on TravisCI" title="build status on TravisCI" /> ... just sain' :smile: </p>
+<p><img src="https://travis-ci.org/sdrees/dss-x-spec.svg?branch=master" alt="build status on TravisCI" title="build status on TravisCI" /> ... just sayin' :smile: </p>
 </div>
 
 <div>
