@@ -10,5 +10,3 @@ addons:
     update: true
 install: true
 script: cd editor_revisions/dss-core/v2.0/csd02 && pandoc -f markdown_github+pipe_tables -t html5 -c styles/markdown-styles-v1.3.css dss-core-v2.0-csd02-wd01-prose.md > dss-core-v2.0-csd02-wd01-prose.html
-deploy:
-  skip_cleanup: true
