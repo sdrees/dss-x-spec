@@ -27,7 +27,7 @@
 <div>
 <h3>Further Description of this Repository</h3>
 
-<p>[Any narrative content may be provided here by the TC, for example, if the Members wish to provide an extended statement of purpose.]</p>
+<p><img src="https://travis-ci.org/sdrees/dss-x-spec.svg?branch=master" alt="build status on TravisCI" title="build status on TravisCI" /> ... just sayin' :smile: </p>
 </div>
 
 <div>
